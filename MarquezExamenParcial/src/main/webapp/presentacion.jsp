@@ -13,5 +13,7 @@
     </head>
     <body>
         <h1>Resultado de calificaciones!</h1>
+        
+         ${resultados.getEvaluacion1().obtenerRegistro()}
     </body>
 </html>
