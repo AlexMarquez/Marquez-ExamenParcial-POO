@@ -24,4 +24,6 @@ public class ControllerExamen {
         return GeneradorCalificaciones.arrayUsuario();
     }
     
+    //http://localhost:8092/MarquezExamenParcial/servicio/servicio-calificaciones/Array
+    
 }
